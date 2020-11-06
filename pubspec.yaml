@@ -1,7 +1,7 @@
 name: custom_row_package
 description: A new Flutter package for designing custom row
 version: 0.0.1
-author: digitalneeds.tech@gmail.com
+author: Digital needs<digitalneeds.tech@gmail.com>
 homepage: https://github.com/piyushbhatia891/custom_row_package.git
 
 environment:

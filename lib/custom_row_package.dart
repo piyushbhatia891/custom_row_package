@@ -1,7 +1,3 @@
 library custom_row_package;
 
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+export './three_column_row/three_column_row.dart';
